@@ -30,14 +30,20 @@ installation process. We first asked them to choose the optimal server settings 
 
 
 5- After that we entered a domain name:
+
 ![5](https://user-images.githubusercontent.com/95036158/226747118-d475a133-6f3b-48f3-9418-fdd14af173e8.jpg)
 
 
 
 6- Configuration the server prosses
+
+
 ![6](https://user-images.githubusercontent.com/95036158/226747263-e78ef121-e777-4f95-a770-c363bc59c145.jpg)
 
 
 7- Test the server
+
+
 ![t1](https://user-images.githubusercontent.com/95036158/226747350-82d70aa5-62e2-4a16-90a2-be9be5fe09cb.jpg)
+
 ![t2](https://user-images.githubusercontent.com/95036158/226747353-af20b356-9c53-40c4-b204-b3b8f68202b4.jpg)
